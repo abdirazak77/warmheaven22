@@ -1,0 +1,163 @@
+# Dependencies
+node_modules/
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.sublime-workspace
+*.sublime-project
+
+# Vite
+node_modules/.vite/
+
+# Supabase
+.supabase/
+
+# Service Worker
+cache/
+
+# Local development
+.env.local
+.env.*.local
+
+# Database
+*.db
+*.sqlite3
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage
+coverage/
+
+# Testing
+coverage/
+
+# Misc
+.DS_Store
+pids
+*.seed
+*.pid
+*.pid.lock
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/*
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Production
+build/
+dist/
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env*.local
+
+# Vercel
+.vercel
+
+# Netlify
+.netlify
+
+# Heroku
+Procfile
+
+# TypeScript
+tsconfig.tsbuildinfo
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+
+# Cypress cache
+cypress/cache/
+
+# Cypress test results
+cypress/results/
+
+# Cypress coverage
+cypress/coverage/
+
+# Cypress fixtures
+cypress/fixtures/
+
+# Cypress downloads
+cypress/downloads/
+
+# Cypress screenshots
+cypress/screenshots/
+
+# Cypress videos
+cypress/videos/
+
+# Cypress cache
+cypress/cache/
+
+# Cypress test results
+cypress/results/
+
+# Cypress coverage
+cypress/coverage/
+
+# Cypress fixtures
+cypress/fixtures/
+
+# Cypress downloads
+cypress/downloads/
+
+# Cypress screenshots
+cypress/screenshots/
+
+# Cypress videos
+cypress/videos/
+
+# Cypress cache
+cypress/cache/
+
+# Cypress test results
+cypress/results/
+
+# Cypress coverage
+cypress/coverage/
+
+# Cypress fixtures
+cypress/fixtures/
+
+# Cypress downloads
+cypress/downloads/
